@@ -1,0 +1,35 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: bordex-box;
+}
+
+.jade1{
+    width: 100%;
+    width: 50%;
+    background-color: black;
+    top: 25%;
+}
+
+.jade ul{
+    list-style: none;
+    text-align: right;
+    padding: 10px;
+}
+
+.jade ul li{
+    display: inline;
+}
+
+.jade ul li a{
+    color: #D2691E;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 12px;
+    
+}
+.jade ul li a :hover{
+    background-color: #A52A2A;
+
+}
